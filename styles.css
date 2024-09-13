@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
+    background-color: #005582;
+    color: #0073b1;
 }
 
 body {
@@ -11,6 +13,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #d74d4d;
+    color: #0073b1;
 }
 
 .card {
@@ -18,6 +21,7 @@ body {
     width: 300px;
     border-radius: 10px;
     box-shadow: 1 4px 8px rgba(0, 0, 0, 0.1);
+    color: #0073b1;
   
     text-align: center;
     padding: 20px;
